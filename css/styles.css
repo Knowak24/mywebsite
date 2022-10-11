@@ -24,7 +24,7 @@ body{
     color: black;
     border: solid rgb(9, 186, 27) 2px;
     border-radius: 20px;
-    margin: 2px;;
+    margin: 2px;
 }
 h1{
     font-family: 'Poppins-Bold';
@@ -40,7 +40,7 @@ img{
     align-content: center;
     width: clamp(20ch, 50%, var(--content-width));
     margin: 2rem;
-    border: 0.5rem solid rgb(9, 186, 27) 2px;
+    
     
   }
   
