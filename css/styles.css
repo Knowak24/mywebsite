@@ -37,7 +37,6 @@ p{
 }
 .myimage{
     width: clamp(20ch, 50%, var(--content-width));
-  margin: 2rem;
   border: 0.5rem solid black;
   justify-content: center;
   margin: auto;
