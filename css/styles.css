@@ -54,5 +54,4 @@ p{
     height: calc(75vh - 2.5rem);
     border: 0.5rem solid black;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-content: center;
