@@ -38,7 +38,7 @@ p{
 }
 .myimage{
     width: clamp(calc(20ch - 3rem), 75%, 70ch);
-    margin: auto;
+    margin: 2rem;
     border: 0.5rem solid black;
     position: relative;
     
