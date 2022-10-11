@@ -34,11 +34,13 @@ h1{
 p{
     font-family: 'Poppins-Regular';
     color:white;
+    text-align: center;
 }
 .myimage{
     width: clamp(calc(20ch - 3rem), 75%, 70ch);
     margin: auto;
     border: 0.5rem solid black;
+    align-content: center;
     
   
     
