@@ -31,6 +31,8 @@ p{
 img{
     display: flex;
     align-items: center;
+    height: fit-content;
+    max-width: 50%;
     
     
 }
