@@ -33,9 +33,10 @@ img{
     display:block;
     align-content: center;
     height:auto;
-    width: clamp(20ch, 50%, var(--content-width));
+    width: clamp(2ch, 50%, var(--content-width));
     margin: 2rem;
     border: rgb(9, 186, 27) 2px;
+    border-radius: 20px;
     
     
     
