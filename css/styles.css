@@ -35,10 +35,13 @@ p{
 img{
     display:block;
     align-content: center;
-    height:auto;
-    width: 20%;
+    width: clamp(20ch, 50%, var(--content-width));
     margin: 2rem;
-    border-radius: 20px;
+    border: 0.5rem solid black;
+    container-type: inline-size;
+  }
+  
+  
     
     
     
