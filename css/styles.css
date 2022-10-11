@@ -36,7 +36,7 @@ img{
     display:block;
     align-content: center;
     height:auto;
-    width: clamp(20ch, 50%, var(--content-width));
+    width: 20%;
     margin: 2rem;
     border-radius: 20px;
     
