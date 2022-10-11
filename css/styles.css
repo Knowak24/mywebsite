@@ -32,7 +32,7 @@ img{
     display: flex;
     align-items: center;
     height: fit-content;
-    max-width: 50%;
+    max: width 200px;;
     
     
 }
