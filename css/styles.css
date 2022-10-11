@@ -50,3 +50,8 @@ body{
     
 
 }
+.wrapper {
+    margin: 0 auto;
+    width: clamp(calc(320px - 3rem), 75%, 70ch);
+    height: calc(75vh - 2.5rem);
+    border: 0.5rem solid 
