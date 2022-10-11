@@ -36,10 +36,10 @@ p{
     color:white;
 }
 .myimage{
-    width: clamp(20ch, 50%, var(--content-width));
+    width: clamp(calc(30ch - 3rem), 75%, 70ch);
     margin: 2rem;
     border: 0.5rem solid black;
-    container-type: inline-size;
+    
   
     
     
