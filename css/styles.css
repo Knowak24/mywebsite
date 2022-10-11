@@ -29,10 +29,15 @@ p{
     color:white;
 }
 img{
-    display: flex;
+    display:block;
     align-content: center;
     height:auto;
-    max: width 200px;;
+    max-width:100%;
     
     
+}
+body{
+    border: solid rgb(9, 186, 27) 2px;
+    border-radius: 20px;
+
 }
