@@ -22,7 +22,14 @@ body{
 }
 h1{
     font-family: 'Poppins-Bold';
+    color: white;
 }
 p{
     font-family: 'Poppins-Regular';
+    color:white;
+}
+img{
+    display: flex;
+    align-items: center;
+    
 }
