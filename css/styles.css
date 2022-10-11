@@ -40,7 +40,7 @@ p{
     width: clamp(calc(20ch - 3rem), 75%, 70ch);
     margin: auto;
     border: 0.5rem solid black;
-    align-content: center;
+    position: relative;
     
   
     
