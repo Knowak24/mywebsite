@@ -35,8 +35,8 @@ p{
     font-family: 'Poppins-Regular';
     color:white;
 }
-img{
-width: 20%;
+.myimage{
+    width: clamp(20ch, 50%, var(--content-width));
   margin: 2rem;
   border: 0.5rem solid black;
   
