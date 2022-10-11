@@ -30,7 +30,7 @@ p{
 }
 img{
     display: flex;
-    align-items: center;
+    align-content: center;
     height: fit-content;
     max: width 200px;;
     
